@@ -10,7 +10,7 @@
 		<div class="quest">
 		<?php
 			echo '<br>';
-			echo '<h2>Tem cabelos louros ?</h2>';
+			echo '<h2>Tem cabelos castanhos claros ?</h2>';
 
 		?>
 		<br>
